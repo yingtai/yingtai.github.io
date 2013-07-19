@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[η]]></title>
-  <link href="http://yingtai.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: 読書 | η]]></title>
+  <link href="http://yingtai.github.io/blog/categories/du-shu/atom.xml" rel="self"/>
   <link href="http://yingtai.github.io/"/>
   <updated>2013-07-20T00:21:22+09:00</updated>
   <id>http://yingtai.github.io/</id>
@@ -14,13 +14,10 @@
 
   
   <entry>
-    
     <title type="html"><![CDATA[読書]]></title>
     <link href="http://yingtai.github.io/blog/2013/07/20/read/"/>
-    
     <updated>2013-07-20T00:02:00+09:00</updated>
     <id>http://yingtai.github.io/blog/2013/07/20/read</id>
-    
     <content type="html"><![CDATA[<ul>
 <li>内田樹『寝ながら学べる構造主義』 (文春新書)</li>
 </ul>
@@ -34,7 +31,6 @@
 </ul>
 
 ]]></content>
-    
   </entry>
   
 </feed>
